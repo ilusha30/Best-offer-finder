@@ -36,19 +36,19 @@ Python обеспечивает оптимальный баланс между �
  
 - Программное обеспечение для разработки
 - Front-end
-•	JS/TS
-•	React
-•	Bootstrap
-•	Vite
+   •	JS/TS
+   •	React
+   •	Bootstrap
+   •	Vite
 - Back-end
-•	Python
-•	FastAPI
+   •	Python
+   •	FastAPI
 - Парсеры:
-o	Selenium
-o	BeautifulSoup4 + requests
-o	Playwright
+   •	Selenium
+   •	BeautifulSoup4 + requests
+   •	Playwright
 -Базы данных
-•	PostgreSQL
+   •	PostgreSQL
 - Тестирование
-•	Postman
-•	PyTest
+   •	Postman
+   •	PyTest
