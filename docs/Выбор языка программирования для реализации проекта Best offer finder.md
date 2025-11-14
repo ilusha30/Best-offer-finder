@@ -41,14 +41,14 @@ Python обеспечивает оптимальный баланс между �
    -	Bootstrap
    -	Vite
 ### Back-end
-   •	Python
-   •	FastAPI
+   -	Python
+   -	FastAPI
 ### Парсеры:
-   •	Selenium
-   •	BeautifulSoup4 + requests
-   •	Playwright
+   -	Selenium
+   -	BeautifulSoup4 + requests
+   -	Playwright
 ### Базы данных:
-   •	PostgreSQL
+   -	PostgreSQL
 ### Тестирование:
-   •	Postman
-   •	PyTest
+   -	Postman
+   -	PyTest
